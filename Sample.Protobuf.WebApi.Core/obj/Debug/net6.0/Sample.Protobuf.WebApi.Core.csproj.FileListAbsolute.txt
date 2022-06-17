@@ -1,0 +1,12 @@
+C:\Users\2160010251\source\repos\Sample.Protobuf\Sample.Protobuf.WebApi.Core\bin\Debug\net6.0\Sample.Protobuf.WebApi.Core.deps.json
+C:\Users\2160010251\source\repos\Sample.Protobuf\Sample.Protobuf.WebApi.Core\bin\Debug\net6.0\Sample.Protobuf.WebApi.Core.dll
+C:\Users\2160010251\source\repos\Sample.Protobuf\Sample.Protobuf.WebApi.Core\bin\Debug\net6.0\Sample.Protobuf.WebApi.Core.pdb
+C:\Users\2160010251\source\repos\Sample.Protobuf\Sample.Protobuf.WebApi.Core\obj\Debug\net6.0\Sample.Protobuf.WebApi.Core.csproj.AssemblyReference.cache
+C:\Users\2160010251\source\repos\Sample.Protobuf\Sample.Protobuf.WebApi.Core\obj\Debug\net6.0\Sample.Protobuf.WebApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2160010251\source\repos\Sample.Protobuf\Sample.Protobuf.WebApi.Core\obj\Debug\net6.0\Sample.Protobuf.WebApi.Core.AssemblyInfoInputs.cache
+C:\Users\2160010251\source\repos\Sample.Protobuf\Sample.Protobuf.WebApi.Core\obj\Debug\net6.0\Sample.Protobuf.WebApi.Core.AssemblyInfo.cs
+C:\Users\2160010251\source\repos\Sample.Protobuf\Sample.Protobuf.WebApi.Core\obj\Debug\net6.0\Sample.Protobuf.WebApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\2160010251\source\repos\Sample.Protobuf\Sample.Protobuf.WebApi.Core\obj\Debug\net6.0\Sample.Protobuf.WebApi.Core.dll
+C:\Users\2160010251\source\repos\Sample.Protobuf\Sample.Protobuf.WebApi.Core\obj\Debug\net6.0\refint\Sample.Protobuf.WebApi.Core.dll
+C:\Users\2160010251\source\repos\Sample.Protobuf\Sample.Protobuf.WebApi.Core\obj\Debug\net6.0\Sample.Protobuf.WebApi.Core.pdb
+C:\Users\2160010251\source\repos\Sample.Protobuf\Sample.Protobuf.WebApi.Core\obj\Debug\net6.0\ref\Sample.Protobuf.WebApi.Core.dll

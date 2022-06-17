@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "P4y+hDlcd0m7TRstOye8Q9UGwVHeCvNEVFwbOSjEHFs=",
+  "Source": "Sample.Protobuf.WebAPI",
+  "BasePath": "_content/Sample.Protobuf.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
